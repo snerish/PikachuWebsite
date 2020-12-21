@@ -40,6 +40,10 @@ p{
     }
 #menu{
    font-family:'Poppins', sans-serif; 
+    position:fixed;
+    width:100%;
+    margin-top:0px;
+    top:0px;
     display:flex;
     align-items:center;
     justify-content: center;
@@ -55,6 +59,18 @@ html{
 }
 a{
     text-decoration:none;
+    display:flex;
+    
 }
 
 
+i{
+    color:black;
+    text-decoration: black;
+    size:120px;
+
+}
+
+footer{
+    text-align: center;
+}
